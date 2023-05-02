@@ -1,4 +1,5 @@
 # todo_application
+Basic Ui to-Do appliaction with no functionality 
 
 A new Flutter project.
 
